@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="logo_do_projeto.png" alt="Logo do Certification NLW">
-</div>
+
 
 # Certification NLW
 
@@ -20,9 +18,4 @@ Construído com Spring Boot, o aplicativo garante uma estrutura robusta e escal�
 - Listagem dos 10 melhores resultados dos usuários.
 - Experiência confiável garantida pela estrutura robusta e escalável do Spring Boot.
 
-## Instalação
-
-1. **Clonar o repositório:**
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+![newteste-ezgif com-optimize](https://github.com/leoschwedler/certificate_nlw/assets/77402907/99f9580f-f80a-489e-a0fa-497f90048f08)
